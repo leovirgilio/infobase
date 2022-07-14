@@ -1,0 +1,20 @@
+{
+  "name": "leo-virgilio/module-infobase",
+  "version": "1.0.0",
+  "description": "Magento / PHP Technical Exercise",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "Proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "LeoVirgilio\\Infobase\\": ""
+    }
+  }
+}
