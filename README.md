@@ -1,4 +1,4 @@
-﻿﻿**Magento / PHP Technical Exercise The Requirement**
+﻿**Magento / PHP Technical Exercise The Requirement**
 
 We want you to write code that supports importing customers and their addresses. The requirement is to import from a sample CSV or JSON at present however the code should be written to support importing from other sources in future. We've intentionally used a slightly ambiguous term of "profiles" to allow for future scope e.g. two CSVs but with differing columns, hence two profiles.
 

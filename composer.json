@@ -1,20 +1,27 @@
 {
-  "name": "leo-virgilio/module-infobase",
-  "version": "1.0.0",
-  "description": "Magento / PHP Technical Exercise",
-  "type": "magento2-module",
-  "require": {
-    "magento/framework": "*"
-  },
-  "license": [
-    "Proprietary"
-  ],
-  "autoload": {
-    "files": [
-      "registration.php"
+    "name": "leo-virgilio/module-infobase",
+    "version": "1.0.0",
+    "description": "Magento / PHP Technical Exercise",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*",
+        "php": "8.1"
+    },
+    "license": [
+        "Proprietary"
     ],
-    "psr-4": {
-      "LeoVirgilio\\Infobase\\": ""
-    }
-  }
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "LeoVirgilio\\Infobase\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Teixeira Virgilio",
+            "email": "leovirgilio@live.com"
+        }
+    ]
 }
