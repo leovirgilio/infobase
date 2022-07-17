@@ -24,5 +24,6 @@
             "email": "leovirgilio@live.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
