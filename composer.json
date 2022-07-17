@@ -5,7 +5,7 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": "*",
-        "php": "8.1"
+        "php": "^7.3|^8.0"
     },
     "license": [
         "Proprietary"
@@ -21,7 +21,8 @@
     "authors": [
         {
             "name": "Leonardo Teixeira Virgilio",
-            "email": "leovirgilio@live.com"
+            "email": "leovirgilio@live.com",
+            "role": "Developer"
         }
     ]
 }
